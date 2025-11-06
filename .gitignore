@@ -5,3 +5,12 @@ server/public
 vite.config.ts.*
 *.tar.gz
 .vercel
+
+# Capacitor
+android/app/build/
+android/.gradle/
+android/.idea/
+android/local.properties
+ios/App/build/
+ios/App/Pods/
+.capacitor/

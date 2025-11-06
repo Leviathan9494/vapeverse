@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">VapeVerse</string>
+    <string name="title_activity_main">VapeVerse</string>
+    <string name="package_name">com.farmerspos.vapeverse</string>
+    <string name="custom_url_scheme">com.farmerspos.vapeverse</string>
+</resources>
